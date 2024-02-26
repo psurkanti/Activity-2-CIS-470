@@ -1,0 +1,8 @@
+Task 3 & 4 involved making specific changes to a code snippet. On line 72, the direction was to adjust the calculation of taxable income by subtracting deductions rather than adding them. 
+Similarly, on line 91, the same change was required for consistency. Additionally, lines 77 and 80 required adjustments to correctly iterate through tax brackets. 
+Line 123 needed modification to properly include medical expenses in deductions. 
+Lastly, line 94 needed a conditional statement to ensure state taxes don't become negative.
+
+For Task 5, I followed a systematic approach to resolve errors and exceptions. Firstly, I addressed any issues not meeting the requirements. 
+Then, I ensured non-negativity of taxable income, mortgage, student loan, and medical expenses. After making these changes, I conducted a dry run to verify the functionality. 
+Subsequently, I focused on test cases not yielding expected results, making necessary adjustments to the code until all test cases passed.
